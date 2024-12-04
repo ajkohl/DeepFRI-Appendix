@@ -11,7 +11,7 @@ This section contains the complete numerical results for Excitation Backpropagat
 ---
 
 ### Appendix A.4: Full Numerical Results for GradCAM
-This section provides the full GradCAM results for the same set of 3529 GOID-protein combinations, offering insights into the explainability of DeepFRI's predictions.
+This section provides the full GradCAM results for the same set of 3529 GOID-protein combinations.
 
 **Files Included:**
 - `GradCAM_Full_Results.pdf`: Detailed numerical results in PDF format.
